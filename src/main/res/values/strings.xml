@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Creating new app</string>
+    <string name="xml_message">XML score was bigger! But still&#8230;</string>
+    <string name="making_a_new_app">Making a new app</string>
+    <string name="xml"><![CDATA[<XML>]]></string>
+    <string name="xml_score">0</string>
+    <string name="using_learned_concept">Using Learned Concept</string>
+    <string name="trying_new_concept">Trying New Concept</string>
+    <string name="java">{JAVA}</string>
+    <string name="java_score">0</string>
+    <string name="give_it_another_try">Give it another try!</string>
+    <string name="apply_them">Apply Them!</string>
+    <string name="xml_wins_message">XML score was bigger! But still...</string>
+    <string name="java_wins_message">Java score was bigger! But still...</string>
+    <string name="tie_message">The scores were equal! But still...</string>
+</resources>
